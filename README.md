@@ -1,2 +1,2 @@
 # Final-Project
-Bus seat reservation
+Install and commit
